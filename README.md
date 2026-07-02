@@ -50,7 +50,7 @@ Most of the site's dynamic content (`services.html`, `pricing.html`, home page t
 
 - **Phone / WhatsApp:** 0349 7098640
 - **Location:** Lahore, Punjab, Pakistan
-- **Email:** hello@virelixsolutions.com
+- **Email:** Virelixsolutions0@gmail.com
 - **Pricing Currency:** PKR (Pakistani Rupees)
 
 These are set in `contact.html` and `assets/script.js` (WhatsApp button link, map embed). To change them:
